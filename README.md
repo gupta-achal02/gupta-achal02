@@ -1,1 +1,6 @@
-[![Header](https://github.com/hailASG/hailASG/tree/main/Images/Behold.png "Header")]
+<p align="center">
+ 
+  <img src="https://github.com/hailASG/hailASG/blob/main/Images/Behold.png">
+  
+</p>
+
