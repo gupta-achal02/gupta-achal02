@@ -1,18 +1,17 @@
 <img src="https://github.com/hailASG/hailASG/blob/main/Images/Behold.png">
 
-<img src="https://github.com/hailASG/hailASG/blob/main/Images/hello-there-general-kenobi.gif" align="left" width="500px"/>
+<img src="https://github.com/hailASG/hailASG/blob/main/Images/hello-there-general-kenobi.gif" align="left">
 <br clear="right"/>
-
+<br>
 <p align="center">
     I'm Achal Gupta, a Computer Science Undergraduate from India.
     <br> 
     Feel free to connect with me.
-    <br><br>
-    <img src="https://github.com/hailASG/hailASG/blob/main/Images/Linkedin.png" height="20px" width="20px"><a href="https://www.linkedin.com/in/achal-gupta-648ba7200/"> Linkedin</a><br>
+    <br>
+    <img src="https://github.com/hailASG/hailASG/blob/main/Images/Linkedin.png" height="20px" width="20px"><a href="https://www.linkedin.com/in/achal-gupta-648ba7200/"> Linkedin</a>
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/twitter.png" height="30px" width="30px"><a href="https://twitter.com/gupta_achal02/">Twitter</a><br>
 </p>
-<br><br>
-
+<br>
  
 ## Languages and Tools
 <p align="center">
