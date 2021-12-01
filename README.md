@@ -21,12 +21,11 @@
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/Java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/MySQL.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/html.png" alt="Html" height="40" style="vertical-align:top; margin:4px">
+    <br><br>
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/js.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-    <br><br>
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/Seaborn.png" alt="Seaborn" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/hailASG/hailASG/blob/main/Images/tableau.png" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## Stats
