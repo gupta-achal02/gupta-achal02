@@ -1,6 +1,7 @@
 <img src="https://github.com/hailASG/hailASG/blob/main/Images/Behold.png">
-
-<img src="https://github.com/hailASG/hailASG/blob/main/Images/hello-there-general-kenobi.gif" align="left">
+<p align="center">
+  <img src="https://github.com/hailASG/hailASG/blob/main/Images/hello-there-general-kenobi.gif" />
+</p>
 <br clear="right"/>
 <br>
 <p align="center">
