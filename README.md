@@ -24,7 +24,7 @@
     <img src="/Images/MySQL.png" alt="MySQL" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/matlab.png" alt="MATLAB" height="40" style="vertical-align:top; margin:10px">
-    <img src="/Images/latex.png" alt="LaTeX" height="40" style="vertical-align:top; margin:10px">
+    <br>
     <img src="/Images/html.png" alt="Html" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/css.png" alt="CSS" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/js.png" alt="JavaScript" height="40" style="vertical-align:top; margin:10px">
@@ -35,6 +35,7 @@
     <img src="/Images/git.png" alt="Git" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/pandas.png" alt="Pandas" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/flask.png" alt="Flask" height="40" style="vertical-align:top; margin:10px">
+    <br>
     <img src="/Images/sqla.png" alt="SQLA" height="40" style="vertical-align:top; margin:10px">
     <img src="/Images/Seaborn.png" alt="Seaborn" height="40" style="vertical-align:top; margin:10px">
 </p>
