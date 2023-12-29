@@ -10,7 +10,7 @@
     Feel free to connect with me.
     <br>
     <img src="https://github.com/hailASG/hailASG/blob/main/Images/Linkedin.png" height="20px" width="20px"><a href="https://www.linkedin.com/in/achal-gupta-648ba7200/"> Linkedin</a>
-    <img src="https://github.com/hailASG/hailASG/blob/main/Images/twitter.png" height="30px" width="30px"><a href="https://twitter.com/gupta_achal02/">Twitter</a><br>
+    <img src="https://github.com/hailASG/hailASG/blob/main/Images/twitter.png" height="30px" width="30px"><a href="https://twitter.com/gupta_achal02/">Twitter (X)</a><br>
 </p>
 <br>
 <br>
