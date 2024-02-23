@@ -42,8 +42,8 @@
 
 ## Stats
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hailASG&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-achal02&show_icons=true&theme=tokyonight" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hailASG&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-achal02&theme=tokyonight" />
 </a>
